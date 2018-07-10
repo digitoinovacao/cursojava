@@ -1,4 +1,4 @@
-package br.com.digito.estudo.teste1;
+package br.com.digito.estudo.cursojava;
 
 import static org.junit.Assert.assertTrue;
 
