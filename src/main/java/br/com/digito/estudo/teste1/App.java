@@ -6,7 +6,5 @@ package br.com.digito.estudo.teste1;
  */
 public class App {
 
-	public static void main(String[] args) {
-
-	}
+	
 }
